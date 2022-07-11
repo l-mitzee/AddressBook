@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\lisad\TerminalCommands\Java\LineSegment\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
